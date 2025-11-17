@@ -1,6 +1,6 @@
 # EX - 5 Asset-Oriented Risk Assessment Of Storage Assets In AWS And Azure
-# name: SRIRANJANI.M
-# reg no: 212224040327
+# Name: SRIRANJANI.M
+# Reg no: 212224040327
 ## Aim
 To perform an asset-oriented risk assessment of cloud storage assets including:
 - AWS Elastic Block Store (EBS)
